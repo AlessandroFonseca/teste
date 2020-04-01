@@ -13,5 +13,6 @@
 
 int main(void) {
 	printf("!!!Hello World!!!\n"); /* prints !!!Hello World!!! */
+	printf("outra mensagem\n");
 	return EXIT_SUCCESS;
 }
